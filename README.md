@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichmondsTetteh
 - 👀 I’m  a Drilling Engineer by profession and I interested in Data Analysis and Computer Programming.
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I recently graduated from Udacity' Nanodegree Program ALX-T Data Analyst.
 - 💞️ I’m looking to collaborate on various open source projects and learn as much as possible.
 
 
